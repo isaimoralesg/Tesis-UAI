@@ -2,6 +2,73 @@
 
 ## Entrega lunes 30 de septiembre
 
+Comentarios Antes:
+
+
+```
+
+Estimados Estudiantes,
+
+  Se les recuerda que los comentarios específicos a los grupos se encuentran disponibles en la plantilla:
+
+https://docs.google.com/spreadsheets/d/1kt3splYqrS1f0xT7pj9rioXPm0H0niWQCgDzCMge9Bs/edit#gid=0
+
+Además, algunos comentarios generales más bien metodológicos:
+
+ 
+
+El trabajo debe tener claramente diferenciado y especificado el (1) modelo/método de solución de la (2) METODOLOGÏA DE 
+EXPERIMENTACiÖN (i.e., pasos que un tercero debería seguir para reproducir sus experimentos) sobre cómo Uds utilizan 
+SU modelo/método/técnica para probar sus respectivas hipótesis. Me fijé que en varios trabajos esto no es muy claro. 
+Para aclarar, sigan la siguiente analogía:
+Por ejemplo: 
+
+           Ténica/modelo de Solución: Nosotros  desarrollamos una nueva vacuna para el covid-19 basada en la técnica M 
+           modificada ...
+
+           Metodología de experimentación (para probar la(s) hipótesis): Mire, para probar   la nueva vacuna basada en 
+           la técnica M, seguimos la siguiente metodología de experimentación:
+
+                   a) Recolectar datos de experiencias pasadas para contrastar, etc etc
+
+                   b) Conseguir voluntarios para la vacunación. Dividir en grupos de     
+
+                      control y prueba.
+
+                   c) Programar la vacunación  (logística, tránsporte, disponibilidad de
+
+                        insumos, etc).
+
+                   d) Aplicar la vacuna con la técnica M
+
+                  e)  Monitorear a los pacientes y realizar pruebas de anticuerpos, etc etc
+
+                   f) Realizar los análisis y comparaciones
+
+                   g) Validar la(s) hipótesis
+
+                   h) Publicar resultados
+
+Si Uds. se fijan, la metodología experimental para probar la vacuna es casi la misma para  todos los fabricantes. 
+Sin embargo, el aporte (y diferencia) está en el paso (d) que es donde se aplica la nueva técnica M contra el 
+covid-19. Más aún, si esto fuera innovación, es la técnica la que se patenta, 
+no la metodología de experimentación. Por tanto, el aporte del laboratorio que la fabrica no está en la metodologia 
+experimental sino en la nueva fórmula o técnica que desarrolló!!. Espero que esta analogía les sea útil para 
+"austar" sus respectivos trabajos.
+
+Se recomienda que en alguna slide agreguen algún párrafo explícito (especialmente para la defensa) que mencione el 
+aporte o valor agregado del trabajo de Uds.  Las presentaciones hablan de varios temas (y son MUCHAS defensas), 
+entonces es altamente probable que la comisión olvidé a veces dónde está la contribución (o diferencias) de sus 
+tesis.  En algunas presentaciones esto salta a la vista mientras que en otras, no es tan evidente, de ahí que es 
+mejor asegurarse y explicitarla(s).
+
+```
+
+Comentarios Después
+
+```
+
+
 En general, se aprecian los siguientes problemas generales:
 
 Muy mala redacción y organizacion de los informes.
@@ -13,7 +80,14 @@ Dentro de la sección en que se describe la "solución" debe explicarse en algpu
 En la sección de la "solución" se recomienda comenzar con una explicación general del enfoque, sus principales ideas, supuestos, etc 
 y LUEGO los detalles correspondientes. De lo contrario, no se entiende el documento.
 
+```
+
 ## Detalle feedback lunes 30 de septiembre
+
+
+
+
+
 
 - Comentarios [acá](https://docs.google.com/spreadsheets/d/1kt3splYqrS1f0xT7pj9rioXPm0H0niWQCgDzCMge9Bs/edit#gid=0)
 
@@ -23,6 +97,7 @@ y LUEGO los detalles correspondientes. De lo contrario, no se entiende el docume
 # Pendientes
 
 - [X] Aumentar fotos: muy pocas con daño=0
+- [x] Revisar [Redimensionamiento imágenes](https://auth0.com/blog/image-processing-in-python-with-pillow/)
 - [ ] Preguntas a Gonzalo Ruz:
 1. ¿Es razonable pasar los montos a daño a un factor del valor inicial?
 2. ¿Qué aspectos debiésemos tener en cuenta al convertir el modelo de regresión a clasificación?
