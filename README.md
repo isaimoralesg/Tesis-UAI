@@ -22,7 +22,7 @@ y LUEGO los detalles correspondientes. De lo contrario, no se entiende el docume
 
 # Pendientes
 
-- [ ] Aumentar fotos: muy pocas con daño=0
+- [X] Aumentar fotos: muy pocas con daño=0
 - [ ] Preguntas a Gonzalo Ruz:
 1. ¿Es razonable pasar los montos a daño a un factor del valor inicial?
 2. ¿Qué aspectos debiésemos tener en cuenta al convertir el modelo de regresión a clasificación?
