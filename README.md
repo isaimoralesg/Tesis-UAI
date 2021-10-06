@@ -1,3 +1,6 @@
+### Documento TESIS: 
+    https://alumnosuaicl-my.sharepoint.com/:w:/r/personal/ggoni_alumnos_uai_cl/_layouts/15/Doc.aspx?sourcedoc=%7B30343F0A-BA16-4E28-84B5-57EFEB126353%7D&file=Template%20Tesis%20MIA%20UAI.docx&wdOrigin=OFFICECOM-WEB.MAIN.REC&ct=1633478841696&action=default&mobileredirect=true&cid=bc076944-6386-4ae6-b2bb-35f7aa5919f6
+
 # Comentarios Profesor
 
 ## Entrega lunes 30 de septiembre
