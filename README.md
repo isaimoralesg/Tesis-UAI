@@ -1,5 +1,6 @@
 ### Documento TESIS: 
-    https://alumnosuaicl-my.sharepoint.com/:w:/r/personal/ggoni_alumnos_uai_cl/_layouts/15/Doc.aspx?sourcedoc=%7B30343F0A-BA16-4E28-84B5-57EFEB126353%7D&file=Template%20Tesis%20MIA%20UAI.docx&wdOrigin=OFFICECOM-WEB.MAIN.REC&ct=1633478841696&action=default&mobileredirect=true&cid=bc076944-6386-4ae6-b2bb-35f7aa5919f6
+
+Mantener actualizado [acá](https://alumnosuaicl-my.sharepoint.com/:w:/r/personal/ggoni_alumnos_uai_cl/_layouts/15/Doc.aspx?sourcedoc=%7B30343F0A-BA16-4E28-84B5-57EFEB126353%7D&file=Template%20Tesis%20MIA%20UAI.docx&wdOrigin=OFFICECOM-WEB.MAIN.REC&ct=1633478841696&action=default&mobileredirect=true&cid=bc076944-6386-4ae6-b2bb-35f7aa5919f6)
 
 # Comentarios Profesor
 
@@ -89,9 +90,6 @@ y LUEGO los detalles correspondientes. De lo contrario, no se entiende el docume
 
 
 
-
-
-
 - Comentarios [acá](https://docs.google.com/spreadsheets/d/1kt3splYqrS1f0xT7pj9rioXPm0H0niWQCgDzCMge9Bs/edit#gid=0)
 
 
@@ -107,3 +105,4 @@ y LUEGO los detalles correspondientes. De lo contrario, no se entiende el docume
 2. ¿Qué aspectos debiésemos tener en cuenta al convertir el modelo de regresión a clasificación? Por el momento estamos usando uno de **regresión**
 3. <s>Hay solo 93 fotos de vehículos sin daño, lo que nos deja con un dataset desbalanceado ¿Cuáles serían estrategias más razonables para llegar a 400?</s>
 4. Queremos demostrar/descartar que en este tipo de problemas un modelo que usa inputs "tabulares" + imágenes es más acucioso que un modelo que solo usa imágenes ¿Comentarios?
+5. ¿Cuántas veces deberíamos correr la comparación para considerar que hemos encontrado una diferencia significativa?
