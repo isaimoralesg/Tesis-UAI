@@ -95,7 +95,7 @@ y LUEGO los detalles correspondientes. De lo contrario, no se entiende el docume
 
 
 
-# Pendientes
+# Pendientes al 10/10/21
 
 - [X] Aumentar fotos: muy pocas con daño=0
 - [x] Revisar [Redimensionamiento imágenes](https://auth0.com/blog/image-processing-in-python-with-pillow/)
