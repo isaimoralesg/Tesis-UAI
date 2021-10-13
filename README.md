@@ -110,3 +110,10 @@ y LUEGO los detalles correspondientes. De lo contrario, no se entiende el docume
 7. Hace sentido realizar tratamiento previo de imágenes para mejorar el resultado?
 8. Hace sentido para la Tesis utilizar transfer learning para capas iniciales?
 9. Deberíamos incluir en la Tesis el caso de las casas como punto de partida de nuestro estudio?
+
+
+# Sugerencias
+
+1. Usar un modelo "tradicional" para base de comparación (Revisar una comparación: Muy probablemente, se va a preguntar con "solo datos").
+2. 
+
