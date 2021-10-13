@@ -117,5 +117,6 @@ y LUEGO los detalles correspondientes. De lo contrario, no se entiende el docume
 # Sugerencias
 
 1. Usar un modelo "tradicional" para base de comparación (Revisar una comparación: Muy probablemente, se va a preguntar con "solo datos").
-2. 
+2. Desarrollar tema de workflow
+3. Incluir explicación de métricas
 
