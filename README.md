@@ -110,10 +110,10 @@ y LUEGO los detalles correspondientes. De lo contrario, no se entiende el docume
 7. Hace sentido realizar tratamiento previo de imágenes para mejorar el resultado?
 8. Hace sentido para la Tesis utilizar transfer learning para capas iniciales?
 
-   Puede ser, más razonable modelo lineal.
+    Puede ser, más razonable modelo lineal.
 10. Deberíamos incluir en la Tesis el caso de las casas como punto de partida de nuestro estudio?
 
-Sí, mencionarlo explícitamente
+    Sí, mencionarlo explícitamente
 
 
 # Sugerencias
