@@ -123,6 +123,8 @@ y LUEGO los detalles correspondientes. De lo contrario, no se entiende el docume
 # Sugerencias
 
 - [X] Usar un modelo "tradicional" para base de comparación (Revisar una comparación: Muy probablemente, se va a preguntar con "solo datos").
+
 - [] Desarrollar tema de workflow
+
 - [] Incluir explicación de métricas
 
