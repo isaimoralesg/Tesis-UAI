@@ -109,6 +109,7 @@ y LUEGO los detalles correspondientes. De lo contrario, no se entiende el docume
 6. <s>Hay solo 93 fotos de vehículos sin daño, lo que nos deja con un dataset desbalanceado ¿Cuáles serían estrategias más razonables para llegar a 400?</s>
 7. Hace sentido realizar tratamiento previo de imágenes para mejorar el resultado?
 8. Hace sentido para la Tesis utilizar transfer learning para capas iniciales?
+
    Puede ser, más razonable modelo lineal.
 10. Deberíamos incluir en la Tesis el caso de las casas como punto de partida de nuestro estudio?
    Sí
