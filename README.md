@@ -113,7 +113,7 @@ y LUEGO los detalles correspondientes. De lo contrario, no se entiende el docume
    Puede ser, más razonable modelo lineal.
 10. Deberíamos incluir en la Tesis el caso de las casas como punto de partida de nuestro estudio?
 
-   Sí, mencionarlo explícitamente
+Sí, mencionarlo explícitamente
 
 
 # Sugerencias
